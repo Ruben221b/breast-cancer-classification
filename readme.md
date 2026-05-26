@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Classification — Machine Learning Project
+# 🩺 Breast Cancer Classification
 
 <div align="center">
 
